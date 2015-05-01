@@ -13,7 +13,7 @@ On Arch Linux run:
 
 Clone the repository:
   
-    git clone https://github.com/marcuskrahl/urxvt-config
+    git clone --recursive https://github.com/marcuskrahl/urxvt-config
   
 Replace the .Xresources file:
 
