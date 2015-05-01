@@ -28,7 +28,7 @@ To use the Perl plugins for selection, URL selection and copy paste, copy the fo
 
 Make sure to apply the changes:
 
-  xrdb -load ~/.XResources
+  xrdb -load ~/.Xresources
   
 The configuration should load automatically on login in most cases. If the configuration is not loaded add the following command to your .xinitrc:
 
