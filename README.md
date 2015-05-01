@@ -15,10 +15,10 @@ Clone the repository:
   
   git clone https://github.com/marcuskrahl/urxvt-config
   
-Replace the .XResources file:
+Replace the .Xresources file:
 
-  mv ~/.XResources ~/.XResources.original
-  ln -s urxvt-config/XResources ~/.XResources
+  mv ~/.Xresources ~/.Xresources.original
+  ln -s urxvt-config/Xresources ~/.Xresources
   
 To use the Perl plugins for selection, URL selection and copy paste, copy the following files:
 
